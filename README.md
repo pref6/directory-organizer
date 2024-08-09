@@ -3,5 +3,5 @@ A simple python script that creates directories in the desired location and sort
 
 **Usage:**
 ```
-directory-organizer.py [-h] [path_to_the_directory]
+python3 directory-organizer.py [-h] [path_to_the_directory]
 ```
